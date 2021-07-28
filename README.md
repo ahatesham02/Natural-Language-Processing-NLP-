@@ -7,6 +7,8 @@ It is important to identify the fake news from the real true news. The problem h
 ## Objective
 
 1.Sole objective is to classify the news from the dataset as fake or true news.
+
 2.Extensive EDA of news.
+
 3.Selecting and building a powerful model for classification.
 
